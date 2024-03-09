@@ -1,3 +1,7 @@
 void main() {
-  print('Hello, World!');
+  printName("Sushil");
+}
+
+void printName(var name) {
+  print(name);
 }
